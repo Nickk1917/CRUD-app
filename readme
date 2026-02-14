@@ -1,0 +1,13 @@
+To start the server.js 
+
+Run this command on terminal : "node server.js"
+
+To start the front end of the webpage 
+
+Run this command on terminall : "npx http-server --p 8000"
+
+
+Once both are running, 
+click on the localhost link and open the index-database.html and once the site has loaded
+try adding a student info and check the if the MongoDb 
+saved that data. 
